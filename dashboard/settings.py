@@ -23,6 +23,7 @@ INSTALLED_APPS = [
     'django.contrib.staticfiles',
     # 3th apps
     # my apps
+    'panels.apps.PanelsConfig',
 ]
 
 MIDDLEWARE = [
